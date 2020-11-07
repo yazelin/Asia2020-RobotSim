@@ -2,21 +2,21 @@
 
 ## 手臂基本介紹
 ### 六軸機器手臂
-![Image](../img/RobotSystem.jpg)
+![Image](./img/RobotSystem.jpg)
 
 ### 軸向
 - A1~A6 
 
-![Image](../img/RobotAxis.jpg)
+![Image](./img/RobotAxis.jpg)
 
 ### 空間
 - Base空間
 
-![Image](../img/RobotCoordinateSystem.jpg)
+![Image](./img/RobotCoordinateSystem.jpg)
 
 - Tool空間
 
-![Image](../img/Tool.jpg) 
+![Image](./img/Tool.jpg) 
 
 ### 線上模擬環境
 - 我們把模擬環境放在網站上了
@@ -121,5 +121,6 @@
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjE0MDQ2OSwxODE5MzY2ODk1XX0=
+eyJoaXN0b3J5IjpbLTczMzM4NDY3NSwxOTc2MTQwNDY5LDE4MT
+kzNjY4OTVdfQ==
 -->
