@@ -215,6 +215,7 @@ public class RobotCommandGripper : RobotCommand
 - 測試
 
 ![Image](./img/GripperTest.gif)
+![Image](./img/RobotSimExample.gif)
 - 來回夾放測試
 
 ![Image](./img/GripperTest2.gif)
@@ -239,6 +240,6 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDU0MDcwOCwtMTQ5MzU2ODI0OCwtOT
-AyMjY5OTUxXX0=
+eyJoaXN0b3J5IjpbMTI5OTE2NDUzLC00ODA1NDA3MDgsLTE0OT
+M1NjgyNDgsLTkwMjI2OTk1MV19
 -->
