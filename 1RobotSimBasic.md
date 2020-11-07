@@ -85,7 +85,10 @@
 ![Image](./img/Flow.png)
 
 ## 練習
-- 匯入RobotSim [下載頁面](http://www.wtech.com.tw/robotsim)
+- 下載 [連結](http://www.wtech.com.tw/public/download/robotsim/RobotSimExample_0_1_7550.unitypackage)
+    - 試用帳號 id.asia.edu.tw
+    - 啟用授權
+![Image](./img/RobotSimActive.png) 
 - 開啟Robot視窗、Program視窗、Controller視窗
 - 加入空場景
 
@@ -126,6 +129,7 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MDg1ODk1LC03ODIwMjQ4NTAsLTEzND
-A0NTMxMywxOTc2MTQwNDY5LDE4MTkzNjY4OTVdfQ==
+eyJoaXN0b3J5IjpbLTI2NDM1ODYxOCw0NzUwODU4OTUsLTc4Mj
+AyNDg1MCwtMTM0MDQ1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5
+NV19
 -->
