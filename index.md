@@ -1,7 +1,7 @@
 ## KUKA工業機器手臂3D動畫模擬與操作
 
 
-### 一、RobotSim基礎 [教學頁面](https://github.com/yazelin/usc2019-RobotSim/blob/master/zh-tw/1RobotSimBasic.html) 
+### 一、RobotSim基礎 [教學頁面](./1RobotSimBasic.html) 
 1.  課程大綱
 2.  手臂基本介紹
 3.  RobotSim環境及基本操作
@@ -18,7 +18,7 @@
 -   動作 Motion
 -   流程控制 Flow
 
-### 二、RobotSim專案制作
+### 二、RobotSim專案制作 [教學頁面](./2RobotSimProject.html) 
 
 1.  RobotSim完整專案
 
@@ -27,6 +27,5 @@
 
 2.  RobotSim匯出 並匯入WorkVisual專案
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQwNjg3NzgsLTE1Mzk0NDYxODNdfQ
-==
+eyJoaXN0b3J5IjpbMjA1NzgzMDA3MywtMTUzOTQ0NjE4M119
 -->
