@@ -25,7 +25,8 @@
     - RobotSim程式設計擴充 夾娃娃機  [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
 
 2.  RobotSim匯出 並匯入WorkVisual專案
+![Image](./img/RobotSimExample.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5NjY0MzQsLTEzNTk5ODU2ODksLT
-E1Mzk0NDYxODNdfQ==
+eyJoaXN0b3J5IjpbMTc3NTg0MTY4OSwtMTYyNDk2NjQzNCwtMT
+M1OTk4NTY4OSwtMTUzOTQ0NjE4M119
 -->
