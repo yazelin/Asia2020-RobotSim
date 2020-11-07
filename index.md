@@ -19,11 +19,11 @@
 ### 二、RobotSim專案制作 [教學頁面](./2RobotSimProject.html) 
 
 1.  RobotSim完整專案
-    -   自訂函式 顯示訊息功能
-    -   RobotSim程式設計擴充 夾娃娃機  [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
+    - 自訂函式 顯示訊息功能
+    - RobotSim程式設計擴充 夾娃娃機  [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
 
 2.  RobotSim匯出 並匯入WorkVisual專案
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU1NjUyNzMsLTE1Mzk0NDYxODNdfQ
+eyJoaXN0b3J5IjpbLTEzNTk5ODU2ODksLTE1Mzk0NDYxODNdfQ
 ==
 -->
