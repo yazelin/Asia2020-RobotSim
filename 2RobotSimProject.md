@@ -200,24 +200,24 @@ public class RobotCommandGripper : RobotCommand
 ```
 - 調整夾爪碰撞範圍(用來偵測範圍內是否有物體可以夾)
 
-![Image](../img/AddGripper_3.png)
+![Image](./img/AddGripper_3.png)
 - 加入物體
 
-![Image](../img/AddSphereGameobject.png)
+![Image](./img/AddSphereGameobject.png)
 - 夾爪加入Gripper功能
 
-![Image](../img/AddGripperScript.png)
+![Image](./img/AddGripperScript.png)
 - Program中加入Empty GameObject後加入GripperCommand功能
 
-![Image](../img/AddGripperCommandScript_1.png)
-![Image](../img/AddGripperCommandScript_2.png)
+![Image](./img/AddGripperCommandScript_1.png)
+![Image](./img/AddGripperCommandScript_2.png)
 
 - 測試
 
-![Image](../img/GripperTest.gif)
+![Image](./img/GripperTest.gif)
 - 來回夾放測試
 
-![Image](../img/GripperTest2.gif)
+![Image](./img/GripperTest2.gif)
 
 
 
@@ -227,18 +227,18 @@ public class RobotCommandGripper : RobotCommand
 ### RobotSim匯出 並匯入WorkVisual專案
 - WorkVisual 環境
 
-![Image](../img/WorkVisualWindow.png)
+![Image](./img/WorkVisualWindow.png)
 - RobotSim 匯出程式
 
-![Image](../img/ExportProgram1.png)
-![Image](../img/ExportProgram2.png)
+![Image](./img/ExportProgram1.png)
+![Image](./img/ExportProgram2.png)
 - WorkVisual 匯入程式
 
-![Image](../img/ImportProgram1.png)
-![Image](../img/ImportProgram2.png)
+![Image](./img/ImportProgram1.png)
+![Image](./img/ImportProgram2.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA4MDc1ODgsLTE0OTM1NjgyNDgsLT
-kwMjI2OTk1MV19
+eyJoaXN0b3J5IjpbLTQ4MDU0MDcwOCwtMTQ5MzU2ODI0OCwtOT
+AyMjY5OTUxXX0=
 -->
