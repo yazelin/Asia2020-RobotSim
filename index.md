@@ -5,18 +5,16 @@
 1.  課程大綱
 2.  手臂基本介紹
 3.  RobotSim環境及基本操作
-
- -   下載-安裝-試用  [參考影片](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
- -   試用帳號 id.asia.edu.tw
- -   教點-程式-模擬  [參考影片](https://www.youtube.com/watch?v=4Gk7K88B10c&index=21&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
- -   設定Tool-更新點位-模擬動作  [參考影片](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
- -   設定Base-設定手臂-匯出程式  [參考影片](https://www.youtube.com/watch?v=izkk5MW-FeY&index=23&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+    -   下載-安裝-試用  [參考影片](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+    - 試用帳號 id.asia.edu.tw
+    - 教點-程式-模擬  [參考影片](https://www.youtube.com/watch?v=4Gk7K88B10c&index=21&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+    - 設定Tool-更新點位-模擬動作  [參考影片](https://www.youtube.com/watch?v=NLA6A_qWDgs&index=22&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
+    - 設定Base-設定手臂-匯出程式  [參考影片](https://www.youtube.com/watch?v=izkk5MW-FeY&index=23&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo)
 
 4.  RobotSim基礎程式
-
--   變數 Value
--   動作 Motion
--   流程控制 Flow
+    - 變數 Value
+    - 動作 Motion
+    - 流程控制 Flow
 
 ### 二、RobotSim專案制作 [教學頁面](./2RobotSimProject.html) 
 
@@ -27,6 +25,5 @@
 
 2.  RobotSim匯出 並匯入WorkVisual專案
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE1OTE4ODksLTE1Mzk0NDYxODNdfQ
-==
+eyJoaXN0b3J5IjpbMjAwNDE0MjIwMSwtMTUzOTQ0NjE4M119
 -->
