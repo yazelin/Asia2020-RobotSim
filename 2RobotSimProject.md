@@ -52,13 +52,13 @@ public class RobotCommandMessage : RobotCommand
 
 - 設定Home點位置
 
-![Image](../img/SetHomePosition_1.png)
-![Image](../img/SetHomePosition_2.png)
+![Image](./img/SetHomePosition_1.png)
+![Image](./img/SetHomePosition_2.png)
 - 加入夾爪模型(用Sphere代替)
 
-![Image](../img/AddGripper_1.png)
-![Image](../img/AddGripper_2.png)
-![Image](../img/AddGripper_3.png)
+![Image](./img/AddGripper_1.png)
+![Image](./img/AddGripper_2.png)
+![Image](./img/AddGripper_3.png)
 - 加入Gripper程式(實踐課程試用版 Trial_0_1_6991 內已包含)
 
 ```cs
@@ -239,5 +239,6 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM1NjgyNDgsLTkwMjI2OTk1MV19
+eyJoaXN0b3J5IjpbNTYwNzYxNTEyLC0xNDkzNTY4MjQ4LC05MD
+IyNjk5NTFdfQ==
 -->
