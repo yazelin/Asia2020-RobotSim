@@ -42,10 +42,10 @@
 ## RobotSim環境及基本操作
 
 ### RobotSim 下載-安裝-試用
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xv4v_fOwAC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- 下載頁面 [連結](http://www.wtech.com.tw/)
+- 下載 [連結](http://www.wtech.com.tw/public/download/robotsim/RobotSimExample_0_1_7550.unitypackage)
 - 試用帳號 id.asia.edu.tw
+- 啟用授權
+![Image](./img/RobotSimActive.png) 
 - 影片參考 [連結](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
 
 ### RobotSim 教點-程式-模擬
@@ -122,6 +122,6 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjAyNDg1MCwtMTM0MDQ1MzEzLDE5Nz
-YxNDA0NjksMTgxOTM2Njg5NV19
+eyJoaXN0b3J5IjpbLTEyMTkxMzMwNDUsLTc4MjAyNDg1MCwtMT
+M0MDQ1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5NV19
 -->
