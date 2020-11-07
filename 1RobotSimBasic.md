@@ -40,16 +40,17 @@
 		- 用指令讓手臂重現動作 
 
 ## RobotSim模擬軟體
-- [討論區](http://forum.wtech.com.tw/viewforum.php?f=17&sid=4a42cdd8643e5518dd23f732ca23f0c4)
-- 免費手臂模型 [SimModel](http://www.wtech.com.tw/robotsim/simmodel)
-## RobotSim環境及基本操作
-
 ### RobotSim 下載-安裝-試用
 - 下載 [連結](http://www.wtech.com.tw/public/download/robotsim/RobotSimExample_0_1_7550.unitypackage)
 - 試用帳號 id.asia.edu.tw
 - 啟用授權
 ![Image](./img/RobotSimActive.png) 
 - 影片參考 [連結](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
+### 其他資源
+- [討論區](http://forum.wtech.com.tw/viewforum.php?f=17&sid=4a42cdd8643e5518dd23f732ca23f0c4)
+- 手臂模型們 [SimModel](http://www.wtech.com.tw/robotsim/simmodel)
+- 
+## RobotSim環境及基本操作
 
 ### RobotSim 教點-程式-模擬
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Gk7K88B10c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -125,6 +126,6 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODk4MjYsLTc4MjAyNDg1MCwtMTM0MD
-Q1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5NV19
+eyJoaXN0b3J5IjpbMTE1MDM1MzQzNCwtNzgyMDI0ODUwLC0xMz
+QwNDUzMTMsMTk3NjE0MDQ2OSwxODE5MzY2ODk1XX0=
 -->
