@@ -22,8 +22,7 @@
     - 自訂函式 顯示訊息功能
     - RobotSim程式設計擴充 夾娃娃機  [參考教學](https://yazelin.github.io/cnu2018-RobotSim/)
 
-2.  RobotSim匯出 並匯入WorkVisual專案
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk5ODU2ODksLTE1Mzk0NDYxODNdfQ
+eyJoaXN0b3J5IjpbLTE5NDcxNDUzODIsLTE1Mzk0NDYxODNdfQ
 ==
 -->
