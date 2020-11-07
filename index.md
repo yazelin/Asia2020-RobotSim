@@ -3,7 +3,7 @@
 
 ### 一、RobotSim基礎 [教學頁面](./1RobotSimBasic.html) 
 1.  課程大綱
-2.  手臂基本介紹
+2.  機器手臂基本介紹
 3.  RobotSim環境及基本操作
     - 下載 [連結](http://www.wtech.com.tw/public/download/robotsim/RobotSimExample_0_1_7550.unitypackage)
     - 試用帳號 id.asia.edu.tw
@@ -27,6 +27,6 @@
 2.  RobotSim匯出 並匯入WorkVisual專案
 ![Image](./img/RobotSimExample.gif)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTg0MTY4OSwtMTYyNDk2NjQzNCwtMT
+eyJoaXN0b3J5IjpbMTgyMTgzNjU0NiwtMTYyNDk2NjQzNCwtMT
 M1OTk4NTY4OSwtMTUzOTQ0NjE4M119
 -->
