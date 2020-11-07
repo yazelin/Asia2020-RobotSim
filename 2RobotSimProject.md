@@ -32,7 +32,7 @@ public class RobotCommandMessage : RobotCommand
 
 	public override int Execute()
 	{
-		//使用DebugConsole印出所設定的息
+		//使用DebugConsole印出所設定的訊息
 		Debug.Log(Message);
 		//動作完成，執行下一行
 		return (line + 1);
@@ -239,6 +239,6 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAxMTY4NjgsLTQ4MDU0MDcwOCwtMT
+eyJoaXN0b3J5IjpbLTE5OTEyOTU5NDQsLTQ4MDU0MDcwOCwtMT
 Q5MzU2ODI0OCwtOTAyMjY5OTUxXX0=
 -->
