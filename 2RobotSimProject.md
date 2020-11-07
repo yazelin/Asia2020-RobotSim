@@ -1,5 +1,4 @@
 ## 二、RobotSim專案製作
-### [繳交作業](https://drive.google.com/drive/folders/104_rw30SUGLiESvD4R0ukJIDlGs7t98Y?fbclid=IwAR172PehbkoKq6Lboyup1Wp-YAIbEKpJTQUJWJMZ9zZYzy_iTaDapXleThA)
 ### RobotSim完整專案
 - 顯示訊息功能
 
@@ -240,6 +239,6 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTE2NDUzLC00ODA1NDA3MDgsLTE0OT
-M1NjgyNDgsLTkwMjI2OTk1MV19
+eyJoaXN0b3J5IjpbLTEwODAxMTY4NjgsLTQ4MDU0MDcwOCwtMT
+Q5MzU2ODI0OCwtOTAyMjY5OTUxXX0=
 -->
