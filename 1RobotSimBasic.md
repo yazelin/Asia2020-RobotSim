@@ -20,7 +20,7 @@
 
 ### 線上模擬環境
 - 我們把模擬環境放在網站上了
-- 網址在這邊  [RobotSim WebPlayer](http://www.wtech.com.tw/robotsim)
+- 網址在這邊  [RobotSim WebPlayer](http://www.wtech.com.tw/robotsim/demo)
 - 在模擬器中我們可以學到這些
 	- 座標系
 		- WORLD
@@ -121,5 +121,5 @@
 ![Image](../img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTM2Njg5NV19
+eyJoaXN0b3J5IjpbMTk3NjE0MDQ2OSwxODE5MzY2ODk1XX0=
 -->
