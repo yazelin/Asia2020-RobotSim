@@ -39,6 +39,9 @@
 		- 先教點
 		- 用指令讓手臂重現動作 
 
+## RobotSim模擬軟體
+- [討論區](http://forum.wtech.com.tw/viewforum.php?f=17&sid=4a42cdd8643e5518dd23f732ca23f0c4)
+- 免費手臂模型 [SimModel](http://www.wtech.com.tw/robotsim/simmodel)
 ## RobotSim環境及基本操作
 
 ### RobotSim 下載-安裝-試用
@@ -122,6 +125,6 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkxMzMwNDUsLTc4MjAyNDg1MCwtMT
-M0MDQ1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5NV19
+eyJoaXN0b3J5IjpbMzA0ODk4MjYsLTc4MjAyNDg1MCwtMTM0MD
+Q1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5NV19
 -->
