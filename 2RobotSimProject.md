@@ -39,18 +39,6 @@ public class RobotCommandMessage : RobotCommand
 		return (line + 1);
 	}
 
-	public override string ExportDat()
-	{
-		//不需要輸出任何內容到手臂程式的Dat檔中
-		return string.Empty;
-	}
-
-	public override string ExportSrc()
-	{
-		//輸出 MsgNotify("訊息內容")  到手臂程式src檔內
-		return tab + "MsgNotify(\"" + Message + "\")" + Environment.NewLine;
-	}
-
 	public override string UpdateName()
 	{
 		////更新Gameobject在階層視窗內的名稱
@@ -202,18 +190,6 @@ public class RobotCommandGripper : RobotCommand
 		return (line + 1);
 	}
 
-	public override string ExportDat()
-	{
-		//不需要輸出任何程式到Dat檔
-		return "";
-	}
-
-	public override string ExportSrc()
-	{
-		//輸出  GripperLock(true/false);  至 手臂程式src檔內
-		return tab + "GripperLock(" + Lock.ToString() + ");" + Environment.NewLine;
-	}
-
 	public override string UpdateName()
 	{
 		//更新Gameobject在階層視窗內的名稱
@@ -263,5 +239,5 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjI2OTk1MV19
+eyJoaXN0b3J5IjpbLTE0OTM1NjgyNDgsLTkwMjI2OTk1MV19
 -->
