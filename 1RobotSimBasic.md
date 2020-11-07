@@ -45,6 +45,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xv4v_fOwAC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 下載頁面 [連結](http://www.wtech.com.tw/)
+- 試用帳號 id.asia
 - 影片參考 [連結](https://www.youtube.com/watch?v=xv4v_fOwAC0&index=20&list=PLYLTPJkULAAZZuNW2s2tX-KWQOus7sAAo).
 
 ### RobotSim 教點-程式-模擬
@@ -121,6 +122,6 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0NTMxMywxOTc2MTQwNDY5LDE4MT
-kzNjY4OTVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODgzMzMxMDUsLTEzNDA0NTMxMywxOT
+c2MTQwNDY5LDE4MTkzNjY4OTVdfQ==
 -->
