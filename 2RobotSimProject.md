@@ -59,7 +59,7 @@ public class RobotCommandMessage : RobotCommand
 ![Image](./img/AddGripper_1.png)
 ![Image](./img/AddGripper_2.png)
 ![Image](./img/AddGripper_3.png)
-- 加入Gripper程式(實踐課程試用版 Trial_0_1_6991 內已包含)
+- 加入Gripper程式(亞大試用版 內已包含)
 
 ```cs
 //Gripper.cs
@@ -130,7 +130,7 @@ public class Gripper : MonoBehaviour
 }
 
 ```
-- 加入GripperCommand(實踐課程試用版 Trial_0_1_6991 內已包含)
+- 加入GripperCommand(亞大試用版 內已包含)
 
 ```
 //RobotCommandGripper.cs
@@ -239,6 +239,6 @@ public class RobotCommandGripper : RobotCommand
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNzYxNTEyLC0xNDkzNTY4MjQ4LC05MD
-IyNjk5NTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjA4MDc1ODgsLTE0OTM1NjgyNDgsLT
+kwMjI2OTk1MV19
 -->
