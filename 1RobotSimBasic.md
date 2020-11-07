@@ -67,60 +67,60 @@
   - Bool、Int、Float、String
   - Set、Add、Sub、Mut、Div
 
-![Image](../img/Value.png) 
+![Image](./img/Value.png) 
 - 動作 Motion
   - Base、Tool、Speed
   - PTP 、LIN、CIRC
 
-![Image](../img/Motion.png) 
+![Image](./img/Motion.png) 
 - 流程控制 Flow
   - Loop、For-Loop、Wait Time
   - If-Else、While、Switch-Case
 
-![Image](../img/Flow.png)
+![Image](./img/Flow.png)
 
 ## 練習
 - 匯入RobotSim [下載頁面](http://www.wtech.com.tw/robotsim)
 - 開啟Robot視窗、Program視窗、Controller視窗
 - 加入空場景
 
-![Image](../img/EmptyRobotSimScene.png)
+![Image](./img/EmptyRobotSimScene.png)
 - 加入機器手臂 Robot
 
-![Image](../img/AddRobot.png)
+![Image](./img/AddRobot.png)
 - 加入手臂程式 Program
 
-![Image](../img/AddProgram.png)
+![Image](./img/AddProgram.png)
 - 加入控制器 Controller
 
-![Image](../img/AddController.png)
+![Image](./img/AddController.png)
 - 連結Robot、Controller、Program
 
-![Image](../img/LinkProgramRobot.png)
+![Image](./img/LinkProgramRobot.png)
 - 設定主攝影機視角
 
-![Image](../img/MainCamera.png)
+![Image](./img/MainCamera.png)
 - 控制手臂加入點位1、點位2
 
-![Image](../img/AddPoint.png)
+![Image](./img/AddPoint.png)
 - 動作指令 PTP、LIN
 
-![Image](../img/AddPTP.png)
-![Image](../img/AddP1.png)
+![Image](./img/AddPTP.png)
+![Image](./img/AddP1.png)
 - 變數 INT I、流程控制 FOR-LOOP 迴圈
 
-![Image](../img/AddINTI.png)
-![Image](../img/AddFORLOOP.png)
+![Image](./img/AddINTI.png)
+![Image](./img/AddFORLOOP.png)
 - 設定速度 SPEED、WAIT SEC 指令
 
-![Image](../img/AddSPEED.png)
-![Image](../img/AddWAITSEC.png)
+![Image](./img/AddSPEED.png)
+![Image](./img/AddWAITSEC.png)
 
 ## 成果
-![Image](../img/Week1Program.png)
-![Image](../img/Week1DEMO.gif)
+![Image](./img/Week1Program.png)
+![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzM4NDY3NSwxOTc2MTQwNDY5LDE4MT
+eyJoaXN0b3J5IjpbLTEzNDA0NTMxMywxOTc2MTQwNDY5LDE4MT
 kzNjY4OTVdfQ==
 -->
