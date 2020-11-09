@@ -41,6 +41,7 @@
 
 ## RobotSim模擬軟體
 ### RobotSim 下載-安裝-試用
+- RobotSim 執行環境 Unity [下載](https://store.unity.com/#plans-individual)
 - 下載 [連結](http://www.wtech.com.tw/public/download/robotsim/RobotSimExample_0_1_7550.unitypackage)
 - 試用帳號 id.asia.edu.tw
 - 啟用授權
@@ -129,7 +130,7 @@
 ![Image](./img/Week1DEMO.gif)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDM1ODYxOCw0NzUwODU4OTUsLTc4Mj
-AyNDg1MCwtMTM0MDQ1MzEzLDE5NzYxNDA0NjksMTgxOTM2Njg5
-NV19
+eyJoaXN0b3J5IjpbLTExMzE3NTgzOTAsLTI2NDM1ODYxOCw0Nz
+UwODU4OTUsLTc4MjAyNDg1MCwtMTM0MDQ1MzEzLDE5NzYxNDA0
+NjksMTgxOTM2Njg5NV19
 -->
